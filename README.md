@@ -5,7 +5,7 @@ API RESTFUL HECHO EN PYTHON CON MYSQL
 ========================================================
 ## Instalación
 - Importar la base de datos en MYSQL
-- Tener instalado pyhton 3.x o superior
+- Tener instalado python 3.x o superior
 - Tener pip instalado:
 - Crear un entorno virtual con virtualenv o venv
 - Ejecutar requirements.txt (Cargar los paquetes de env):
